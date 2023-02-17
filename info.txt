@@ -2,3 +2,4 @@ AWS
 Class
 Test
 DevOps
+Bare
